@@ -9,9 +9,10 @@ E-Book sobre a influência dos símbolos
 - IA MidJourney para imagens
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+- Utilizei o MidJourney para fazer a capa
+- Utilizei ChatGPT e o Copilot para criar o textos e estruturar os tópicos.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+- LINK: https://1drv.ms/b/s!AoFTMA0tpwWpgrAzJ42jPtb8dGJKRw?e=UJlp3f
 
 
